@@ -65,7 +65,7 @@ imageContainer : {
     borderWidth : 3,
     borderColor : Colors.primary600 ,
     overflow : 'hidden',
-    margin : 30,
+    margin : 30 ,
 },
 image: {
     width : '100%' , 
